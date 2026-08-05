@@ -9,7 +9,7 @@ Local Development Setup
 Follow these steps to clone this repository and run the projects on your computer:
 
 Prerequisites
-* Unity Hub and Unity Editor (2022.3 LTS or newer recommended).
+* Unity Hub and Unity Editor.
 * Git installed on your system.
 
 How to Clone & Run
