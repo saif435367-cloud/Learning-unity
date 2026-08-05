@@ -4,6 +4,28 @@ A collection of games I made by following the official courses "unity essentials
 Playable WebGL Builds: All games are published and playable directly in your browser on Unity Play.
 Link: https://play.unity.com/en/user/b1b08e8e-46eb-49a3-b5c4-8d726c9405f7
 
+Local Development Setup
+
+Follow these steps to clone this repository and run the projects on your computer:
+
+Prerequisites
+* Unity Hub and Unity Editor (2022.3 LTS or newer recommended).
+* Git installed on your system.
+
+How to Clone & Run
+
+1. Open your terminal or command prompt and run:
+   git clone https://github.com/saif435367-cloud/Learning-unity.git
+
+2. Open in Unity Hub:
+   * Launch Unity Hub.
+   * Click Add -> Add project from disk.
+   * Select the folder of the specific project/game you want to open from the cloned repository.
+
+3. Play the Game:
+   * In Unity, go to Assets/Scenes and open the main scene file (e.g., SampleScene.unity or Main.unity).
+   * Click the Play button at the top of the Unity Editor to test the game!
+
 Unity Essentials: 
 A multi-room interactive hub featuring scene selection navigation (Playground, Kid's Room 3D, Kitchen Audio, Living Room Programming, and Top-Down 2D)
 
